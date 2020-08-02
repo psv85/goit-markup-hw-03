@@ -1,0 +1,93 @@
+:root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-collor: #2196f3;
+  --background-color: #ffffff;
+  --background-color-footer: #2f303a;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+#title {
+  font-weight: ;
+  color: ;
+}
+/*page-header*/
+.page-header {
+}
+
+/*menu-site*/
+.menu-site li {
+  box-sizing: var(--primary-text-color);
+}
+/*accent-logo*/
+.accent-logo {
+  color: #2196f3;
+}
+
+li {
+  list-style: none;
+}
+
+.project {
+  color: #757575;
+}
+
+.portfolio {
+  color: #212121;
+}
+
+.heading {
+  color: #212121;
+}
+
+/*contact*/
+.contacts {
+  color: #212121;
+}
+
+/*saite nav*/
+.site-nav:hover {
+  color: #000000;
+}
+
+.contacts :hover {
+  color: #000000;
+}
+/*saite nav*/
+.link :hover {
+  color: #000000;
+}
+/*span accent*/
+.accent-logo:hover {
+  color: ;
+}
+/*social-links*/
+.social-links {
+  color: teal;
+}
+/*social-links*/
+.social-links:hover {
+  color: orange;
+}
+/*social-links*/
+.site-nav:hover {
+  color: orange;
+}
+
+.list:focus {
+  color: #2196f3;
+}
+
+/*regular-customers*/
+.regular-customers {
+}
+/*autorisation*/
+.auts-nav {
+}
